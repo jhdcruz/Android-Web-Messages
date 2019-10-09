@@ -9,6 +9,7 @@ node_modules
 # Output Files
 dist/
 release-builds/
+build/desktop-messages.nsi
 
 # Temp files
 stash/
